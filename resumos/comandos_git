@@ -39,6 +39,22 @@ GIT PUSH ORIGIN MASTER
 
 (obs: aqui será pedido o nome de usuário e a senha do GitHub, porém no lugar da senha deve ser colocado o TOKEN e não a senha de login)
 
+GIT PUSH
+
+para subir
+
 ===============================
+
+GIT CLONE HTTPS://endereco.do.repositorio/nomeDoRepositorio.git
+
+Cria uma cópia exata do repositório remoto para o computador.
+
+GIT PULL  ORIGIN MASTER
+
+Traz para o computador apenas as alterações que foram feitas no repositório remoto.
+
+==============================
+
+
 
 
