@@ -1,0 +1,44 @@
+*RESUMO GIT*
+
+Instalação:
+
+LINUX - sudo apt-get install git-all  && sudo apt-get update
+
+================================
+
+*Configuração Inicial*
+
+GIT INIT  (na pasta onde estão os arquivos que serão comitados)
+GIT CONFIG USER.NAME "nomeDeUsuario"
+GIT CONFIG USER.EMAIL "emailDoUsuario"
+
+GIT CONFIG --GLOBAL USER.NAME "nomeDeUsuario"
+GIT CONFIG --GLOBAL USER.EMAIL "emailDoUsuario"
+
+=================================
+
+*Para adicionar o repositório local do GitHub onde os arquivos serão enviados*
+
+GIT REMOTE ADD ORIGIN HTTPS://endereco.do.repositorio/nomeDoRepositorio.git
+GIT REMOTE -V
+	origin HTTPS://endereco.do.repositorio/nomeDoRepositorio.git (fetch)
+	origin HTTPS://endereco.do.repositorio/nomeDoRepositorio.git (push)
+	
+================================
+
+*Para fazer o versionamento (o commit)*
+
+GIT ADD .  
+GIT COMMIT -M "mensagem"  
+
+================================
+
+*Para enviar os arquivos ou as modificações ao repositório no GitHub*
+
+GIT PUSH ORIGIN MASTER
+
+(obs: aqui será pedido o nome de usuário e a senha do GitHub, porém no lugar da senha deve ser colocado o TOKEN e não a senha de login)
+
+===============================
+
+
