@@ -1,0 +1,16 @@
+PROGRAMAÇÃO ORIENTADA A OBJETOS
+
+- OBJETOS - é aquilo que dá vida a uma classe.
+
+==================
+
+- CLASSE - as classes são modelos de um objeto possuindo características e comportamentos.
+- ATRIBUTOS - Características
+- MÉTODOS - Comportamentos
+
+==================
+
+- ABSTRAÇÃO
+- ENCAPSULAMENTO
+- POLIMORFISMO
+- HERANÇA

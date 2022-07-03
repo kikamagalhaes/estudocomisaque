@@ -1,0 +1,38 @@
+PROGRAMAÇÃO ORIENTADA A OBJETOS
+
+- CLASSE - é um conjunto de objetos categorizados por seus atributos e métodos.
+		 - é uma entidade que possue atributos e métodos podendo se expressar através de objetos.
+		 - é uma descrição que abstrai um conjunto de objetos com características similares. (wiki)
+
+==================
+
+- OBJETO - são as várias representações individuais de uma classe.  São representantes de uma classe. {`É uma ocorrência específica de uma classe.}
+- ATRIBUTOS - são as qualificações do objeto pertencente à classe. São características ou propriedades. "O que é".
+- MÉTODOS - são as ações que o objeto pode realizar, são suas habilidades. "O que faz".
+
+==================
+
+.- ABSTRAÇÃO - {a classe abstrata gera uma classe concreta}  A classe abstrata não possui objetos.  A classe abstrata não é representada por objetos, mas sim por outras classes que são concretas.
+- ENCAPSULAMENTO -
+- POLIMORFISMO - é a utilização dos mesmos atributos e métodos de uma classe "mãe", por objetos distintos
+{quando vários objetos tem comportamentos diferentes para a mesma ação}  
+Muitas formas para a mesma ação. É a realização da mesma ação, ou método, por diferentes objetos, de diferentes formas.
+
+- HERANÇA - é a possibilidade de estender os atributos e métodos de uma classe à outra, gerando uma classe estendida, é a extensão da classe mãe.(objetos?)
+	- Herança é o processo de herdar características ou propriedades , ou seja: ATRIBUTOS.  Atributos são únicos.  Atributos não mudam, são exatamente os mesmos.  O mesmo DNA da classe mãe.  Os atributos podem ser acrescentados, mas não modificados.
+	- Polimorfismo é o processo de reproduzir comportamentos de formas diferentes, ou seja: MÉTODOS.  Métodos podem variar.
+
+obs: a classe mãe na herança é sempre uma classe abstrata.´
+obs: a herança se aplica de classe para classe enquanto o polimorfismo se aplica de classe para objeto.
+obs: a classe mãe é sempre uma classe abstrata
+
+- a classe mãe também pode ser chamada de super classe ou classe base, enquanto que a classe filha pode ser chamada de subclasse ou classe derivada.
+- os atributos também são chamados de membros.
+
+- para utilizar herança em Java, utilizamos a palavra extends.  Sempre partindo de uma classe abstrata.
+
+- quando a classe filha sobrescreve um método da classe mãe, isso é polimorfismo.  E quanto a classe filha usa um método diferente da classe mãe, isso chama-se especialização.
+
+- classe abstrata é uma classe sem nenhum objeto.
+
+Diferença entre herança e polimorfismo.

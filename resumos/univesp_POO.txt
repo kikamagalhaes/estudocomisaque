@@ -1,0 +1,49 @@
+CLASSES
+- Uma classe descreve um conjunto de objetos semelhantes.
+- Uma classe é apenas uma abstração.
+- Definir uma classe = formalizar um tipo de dado e todas as operações que tem associado a este tipo.
+- Exemplo:  planta da casa.
+
+OBJETO
+- É uma entidade concreta
+- Definir um objeto = criar variáveis do tipo definido. Aquele tipo que foi definido pela classe.
+- Exemplo: a casa.
+
+MÉTODOS
+- São todas as operações que podem ser executadas pelos objetos.
+
+VALORES DOS ATRIBUTOS
+- São acessados, em geral, por meio dos métodos definidos pela classe.
+
+CONSTRUTORES
+- Métodos com o mesmo nome da classe e não possui retorno.
+
+==============================
+
+Tipos de acesso ou modificadores de acesso:
+
+===============================
+
+PUBLIC - atributo ou método da classe que pode ser acessado por todas as entidades do sistema.
+
+PROTECTED - atributo ou método que pode ser acessado somente por classes da mesma hierarquia e mesmo pacote.
+
+PRIVATE - atributo ou método que pode ser acessado somente por métodos da própria classe.
+
+==============================
+
+Pilares da POO
+
+==============================
+
+- ABSTRAÇÃO - Classes são abstrações de conceitos.
+- ENCAPSULAMENTO - ...a idéia e não depender do funcionamento interno, mas sim da sua interface.
+- HERANÇA - hierarquização das classes em um sistema.
+- POLIMORFISMO - a mesma operação [método], comporta-se de modo diferente nas diferentes classes de uma hierarquia.
+- MENSAGENS - um objeto emissor faz uma requisição para um objeto receptor para que ele execute um comportamento desejado.
+
+===============================
+
+
+
+=============================

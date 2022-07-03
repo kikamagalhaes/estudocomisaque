@@ -1,0 +1,9 @@
+S - Single responsability  -  Função única
+O - Open-closed -  Modificar não, complementar sim.
+L - Liskov substitution - Filho pode substituir o pai, pois herdou as mesmas habilidades.
+I - Interface segregation - Um regulamento para cada departamento.
+D - Dependency inversion - Utilize um mediador entre você e seu objetivo.
+
+
+
+
